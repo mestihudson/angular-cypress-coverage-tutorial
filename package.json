@@ -38,7 +38,7 @@
     "@jsdevtools/coverage-istanbul-loader": "^3.0.5",
     "@types/jasmine": "^4.0.3",
     "@types/node": "^16.11.47",
-    "cypress": "^10.4.0",
+    "cypress": "12.17.3",
     "istanbul-lib-coverage": "^3.2.0",
     "jasmine-core": "^4.3.0",
     "karma": "^6.4.0",
