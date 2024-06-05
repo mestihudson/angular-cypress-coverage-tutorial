@@ -11,7 +11,7 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
     "e2e:ci": "ng run angular-cypress-coverage-tutorial:e2e-ci",
-    "e2e:coverage": "npx nyc report --reporter=lcov --reporter=text-summary"
+    "e2e:coverage": "npx nyc report"
   },
   "private": true,
   "dependencies": {
